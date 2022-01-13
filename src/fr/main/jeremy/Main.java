@@ -13,6 +13,7 @@ public class Main {
 		imprimante.imprimer();
 		Imprimante imprimanteDeux = Imprimante.getInstance();
 		imprimanteDeux.imprimer();
+		System.out.println("test");
 	}
 
 }
